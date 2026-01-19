@@ -22,8 +22,12 @@
 
   <a href="https://t.me/B_jack_47" target="_blank">
     <img src="https://img.shields.io/badge/Abderrahmane-grey?style=for-the-badge&logo=telegram" height="35px" alt="Telegram" />
-  </a>
+  </a> <br>
 
+  <a href="https://instagram.com/abde.rrahmane125" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35px" alt="Instagram" />
+  </a>
+  
 </div>
 
 <hr></hr>
