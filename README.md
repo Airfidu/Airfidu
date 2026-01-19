@@ -18,11 +18,12 @@
 
 <div align="center">
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Airfidu&style=flat&color=orange&label=PROFILE+VIEWS)
+  <img src="https://komarev.com/ghpvc/?username=Airfidu&style=for-the-badge&color=orange&label=PROFILE+VIEWS" height="35px" alt="Profile Views" />
 
-[![telegram badge](https://img.shields.io/badge/Abderrahmane-grey?style=flat&logo=telegram)](https://t.me/B_jack_47) 
+  <a href="https://t.me/B_jack_47" target="_blank">
+    <img src="https://img.shields.io/badge/Abderrahmane-grey?style=for-the-badge&logo=telegram" height="35px" alt="Telegram" />
+  </a>
 
-<br>
 </div>
 
 <hr></hr>
@@ -30,6 +31,7 @@
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
@@ -43,24 +45,32 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 ```dart
-// tools_I_use organized
+// Abderrahmane's Specialized Stack
 
 class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  const myExpertise = {  
+    "WhatIDo": {
+      "Python Scripts"
+      "n8n Workflows",     
+      "Telegram Bots",     
+      "Web Development",   
+      "Problem Solving"     
+    },
+    
+    "TechStack": {
+      "Primary": ["Python", "JavaScript", "Dart"],
+      "Tools": ["n8n", "Docker", "Git", "PostgreSQL"],
+      "Environment": ["GNU/Linux", "Vscode", "Neovim"]
+    },
+    
+    "CurrentFocus": "Building scalable automation systems"
   };
 }
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+ <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[𝓜𝓸𝓷𝓸](https://t.me/B_jack_47)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
