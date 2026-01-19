@@ -16,7 +16,14 @@
 
 </div>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+<div align="center">
+
+![Totals Hits](https://komarev.com/ghpvc/?username=Airfidu&style=flat&color=orange&label=PROFILE+VIEWS)
+
+[![telegram badge](https://img.shields.io/badge/Abderrahmane-grey?style=flat&logo=telegram)](https://t.me/B_jack_47) 
+
+<br>
+</div>
 
 <hr></hr>
 
