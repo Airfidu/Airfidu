@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Hello Coders" width="60%"/> <br>
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Hello Coders" width="60%" length="40%"/> <br>
 <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"  alt="Workspace"  width="40%"/><br> 
 
 <details>
